@@ -1,5 +1,5 @@
 ---
-title: "Getting Started with GitHub
+title: "Getting Started with GitHub"
 categories:
   - GitHub
 tags:
